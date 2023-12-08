@@ -1,4 +1,5 @@
-'''alumno: Felipe Neri Francisco bueno González
+'''
+alumno: Felipe Neri Francisco bueno González
 laboratorio: 2.2
 Fecha: 8/12/2023
 '''
